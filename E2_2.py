@@ -42,7 +42,7 @@ import math
 
 
 
-#process_expenses()                                 # TODO: Need to uncomment and modify this line
+#process_expenses("E2_2.csv")                       # TODO: Need to uncomment and modify this line
 print("\n\nExpenses based on Categories:")          # DO NOT change this line
 #for i in dict:                                     # TODO: Need to uncomment this line
 #    print("{:30s}: ${:.2f}".format(i, dict[i]))    # TODO: Need to uncomment this line
