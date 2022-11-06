@@ -1,4 +1,5 @@
 import matplotlib.pyplot as pp
+## must NOT import other modules 
 
 # Function: simple_decode()
 #   - One parameter for the string of a filename
@@ -12,7 +13,8 @@ import matplotlib.pyplot as pp
 
 
 
-#simple_decode("E2_1.csv")            # TODO: You need to modify this line
+#dict = simple_decode("E2_1.csv")            # TODO: You need to uncomment this line
+
 
 # TODO: You need to add several lines of code here!!
 

@@ -1,4 +1,6 @@
 import math
+## must NOT import other modules 
+## ONLY allowed to use math.sqrt() function from math module
 
 # Function: process_expenses()
 # - One parameter, filename (csv format)
@@ -40,10 +42,10 @@ import math
 
 
 
-#process_expenses()                                 # TODO: Need to modify this line
-print("\n\nExpenses based on Categories:")
-#for i in dict:                                     # TODO: Need to modify this line
-#    print("{:30s}: ${:.2f}".format(i, dict[i]))    # TODO: Need to modify this line
+#process_expenses()                                 # TODO: Need to uncomment and modify this line
+print("\n\nExpenses based on Categories:")          # DO NOT change this line
+#for i in dict:                                     # TODO: Need to uncomment this line
+#    print("{:30s}: ${:.2f}".format(i, dict[i]))    # TODO: Need to uncomment this line
 
 
 print("\n\nExpenses Stats:")
